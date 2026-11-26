@@ -1,0 +1,18 @@
+# EILEAN VESPERA AUTOMATED TIDE GAUGE (TG-VESP-01) & MET MAST (AWS-VESP) — GPS-DISCIPLINED UTC
+# CAUSEWAY CLOSURE THRESHOLD (AN CLACHAN DUBH BASALT SILL): +3.60 m CHART DATUM (CD)
+timestamp_utc,tide_height_m_CD,astronomical_pred_m_CD,storm_surge_m,wind_dir_deg,wind_mean_kt,wind_gust_kt,baro_msl_hPa,causeway_status
+2026-11-14 18:00:00,2.42,2.15,+0.27,290,34,46,986.2,OPEN (Sgt. Fraser crosses 18:12 UTC)
+2026-11-14 19:00:00,3.18,2.82,+0.36,292,38,51,984.0,OPEN (Rising fast with heavy spray)
+2026-11-14 19:30:00,3.51,3.11,+0.40,295,41,54,983.1,MARGINAL / BREAKING SWELL
+2026-11-14 19:38:00,3.60,3.18,+0.42,295,42,56,982.8,IMPASSABLE — SILL SUBMERGED (22m ahead of calm prediction)
+2026-11-14 20:00:00,3.88,3.45,+0.43,296,44,58,982.0,SUBMERGED (0.28 m surf over roadway)
+2026-11-14 20:14:00,4.05,3.61,+0.44,298,46,61,981.6,SUBMERGED (Peak gust trips mainland 11kV overhead-subsea transition)
+2026-11-14 21:00:00,4.58,4.14,+0.44,295,45,59,980.4,SUBMERGED (0.98 m surf over roadway)
+2026-11-14 21:30:00,4.84,4.41,+0.43,294,44,58,979.8,SUBMERGED (1.24 m surf over roadway)
+2026-11-14 21:45:00,4.96,4.53,+0.43,294,45,58,979.4,SUBMERGED (1.36 m surf over roadway)
+2026-11-14 22:00:00,5.05,4.63,+0.42,292,43,56,979.0,SUBMERGED (1.45 m surf over roadway)
+2026-11-14 22:52:00,5.18,4.77,+0.41,290,42,55,978.1,PEAK HIGH WATER (+5.18 m CD = 1.58 m depth over causeway)
+2026-11-15 00:00:00,4.92,4.54,+0.38,288,39,52,977.4,SUBMERGED (1.32 m surf over roadway)
+2026-11-15 01:00:00,4.48,4.13,+0.35,285,36,48,977.9,SUBMERGED (0.88 m surf over roadway)
+2026-11-15 03:00:00,3.96,3.66,+0.30,280,31,42,979.5,SUBMERGED (0.36 m surf over roadway)
+2026-11-15 04:48:00,3.59,3.34,+0.25,278,26,35,981.2,RE-OPENED (<3.60 m CD — Mainland MIT crosses 04:56 UTC)

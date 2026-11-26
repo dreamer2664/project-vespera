@@ -1,0 +1,25 @@
+Return-Path: <avance@vespera.ac.uk>
+Delivered-To: trust-conclave-all@vespera.ac.uk
+Received: from localhost (localhost [127.0.0.1])
+	by mail.vespera.local (Postfix 3.8.4) with ESMTP id 4X9kLm29zP
+	for <trust-conclave-all@vespera.ac.uk>; Sat, 14 Nov 2026 23:04:01 +0000 (UTC)
+X-Postfix-Deferred-Spool-ID: atd-job-00419 (/var/spool/cron/atjobs/a001a301a85ec4)
+X-Local-Queue-Enqueued: Sat, 14 Nov 2026 21:47:32 +0000 (UTC)
+X-Originating-Workstation: WS-B104 (Ubuntu 24.04.1 LTS — GPS-NTP Stratum 1 Synced, Offset 0.000s)
+Message-ID: <1794692852.4419.avance@ws-b104.vespera.local>
+Date: Sat, 14 Nov 2026 23:04:00 +0000
+From: "Dr. Alistair Vance" <avance@vespera.ac.uk>
+To: "Vespera Conclave Distribution" <trust-conclave-all@vespera.ac.uk>
+Subject: Sunday 09:00 Conclave Signing — Proxy & Schedule Confirmation
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Colleagues,
+
+I am completing final baseline verification down in the Isochron Lab and will remain tied up here for another hour.
+
+Please ensure all signed governance and proxy declarations in respect of Trust/SCV shareholding per Clause 4(b) are placed on the Reception desk prior to 08:30 tomorrow so we can conclude formalities briskly before the morning crossing. Do not disturb the B1 suite tonight while the purge stabilisation runs.
+
+Regards,
+A. Vance

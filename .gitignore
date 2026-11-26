@@ -1,0 +1,15 @@
+# Strictly exclude any private keys, grading rubrics, caches, or build artifacts
+*SEALED*
+*ANSWER_KEY*
+*SCORING_RUBRIC*
+*DEPENDENCY_MATRIX*
+*CONSISTENCY_AUDIT*
+*LOCALITY_BIBLE*
+*PRIVATE*
+*github_pat*
+*.pyc
+__pycache__/
+.DS_Store
+.arena/
+progress.log
+*.tmp

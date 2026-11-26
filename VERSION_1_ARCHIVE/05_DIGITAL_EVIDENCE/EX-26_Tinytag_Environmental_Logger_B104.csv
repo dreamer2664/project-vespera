@@ -1,0 +1,30 @@
+# GEMINI TINYTAG PLUS-2 DUAL TEMPERATURE / BAROMETRIC LOGGER (SERIAL: SN-TT-9042)
+# LOCATION: ROOM B1-04 NE CORNER SHELF BEHIND LIQUID-HELIUM DEWAR (DEPLOYED BY DR. C. LINDQVIST)
+# TIMEBASE: INTERNAL QUARTZ CALIBRATED TO UTC (VERIFIED AT DOWNLOAD 2026-11-15 06:40:00 UTC: DRIFT +0.0s)
+sample_utc,chamber_temp_C,chamber_pressure_hPa,diagnostic_remark
+2026-11-14 21:00:00,16.0,981.4,Baseline precision setpoint
+2026-11-14 21:05:00,16.0,981.2,Baseline
+2026-11-14 21:10:00,16.0,981.0,Baseline
+2026-11-14 21:15:00,16.0,980.8,Baseline
+2026-11-14 21:20:00,16.0,980.6,Baseline
+2026-11-14 21:25:00,16.0,980.4,Baseline
+2026-11-14 21:30:00,16.0,980.1,Baseline
+2026-11-14 21:35:00,16.0,979.9,Baseline prior to entry
+2026-11-14 21:40:00,16.1,977.9,SHARP -1.8 hPa NEGATIVE PRESSURE EXTRACT DIP (High-velocity purge blower active)
+2026-11-14 21:45:00,15.9,977.8,NEGATIVE PRESSURE EXTRACT DIP CONTINUES (Blower shuts off ~21:45:00)
+2026-11-14 21:50:00,20.8,979.4,Pressure normalises; rapid HVAC + furnace thermal climb begins
+2026-11-14 21:55:00,25.3,979.2,Rapid heating
+2026-11-14 22:00:00,27.9,979.0,Approaching max maintenance bake thermostat limit
+2026-11-14 22:05:00,28.5,978.8,Thermostat plateau 28.5 C
+2026-11-14 22:15:00,28.5,978.5,Thermostat plateau 28.5 C
+2026-11-14 22:30:00,28.5,978.1,Thermostat plateau 28.5 C
+2026-11-14 22:45:00,28.5,977.8,Thermostat plateau 28.5 C
+2026-11-14 23:00:00,28.5,977.5,Thermostat plateau 28.5 C
+2026-11-14 23:15:00,28.4,977.3,Programmable HVAC setback reverts setpoint to 16.0 C at 23:15:00
+2026-11-14 23:20:00,24.6,977.2,Active chiller pull-down
+2026-11-14 23:30:00,19.8,977.0,Active chiller pull-down
+2026-11-14 23:40:00,17.1,976.9,Approaching 16.0 C setpoint
+2026-11-14 23:45:00,16.4,976.8,Just prior to Okafor discovery unlatch
+2026-11-14 23:50:00,16.3,976.8,DOOR-B104 propped open
+2026-11-15 00:00:00,16.2,976.7,Scene cordoned
+2026-11-15 00:10:00,16.2,976.6,Matches Sgt. Fraser manual ambient thermometer reading (16.2 C)
