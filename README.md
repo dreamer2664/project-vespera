@@ -10,7 +10,7 @@ This repository houses the public documentary, institutional, municipal, commerc
 
 - **`index.html`** — offline portal with one-click navigation to every section.
 - **`questionnaires/OPERATION_VESPERA_QUESTIONNAIRE_380.md` / `.pdf`** — the official 380-item objective investigation questionnaire.
-- **`indexes/MASTER_FILE_INDEX.csv` / `.md`** — neutral catalogue of all 3,113 public files.
+- **`indexes/MASTER_FILE_INDEX.csv` / `.md`** — neutral catalogue of all 3,120 public files.
 
 ## Directory Overview
 
