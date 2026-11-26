@@ -1,0 +1,104 @@
+{
+  "dataset_id": "DS-062",
+  "exported_utc": "2026-11-16T12:00:00Z",
+  "records": [
+    {
+      "biz_id": "BIZ-003",
+      "name": "The Summer Isles Hotel & Dining Room",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Thu-Mon 08:00-22:00 (Dinner 18:00-20:30); Tue-Wed Residents Only",
+      "storm_nov14_15": "Bar kept open until 23:30 GMT Sat 14 Nov with hot soup on standby generator for stranded motorists"
+    },
+    {
+      "biz_id": "BIZ-008",
+      "name": "The Arch Inn & Bistro",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Daily 08:00-22:30",
+      "storm_nov14_15": "Accommodated 14 stranded Stornoway ferry passengers overnight Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-013",
+      "name": "Lochbroom Pharmacy & Dispensing Chemist",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 09:00-17:30 (Closed 13:00-14:00 dispensing break); Sat 09:00-13:00; Sun Closed",
+      "storm_nov14_15": "Closed routinely at 13:00 GMT Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-018",
+      "name": "Tigh na Mara B&B",
+      "town": "Polbain",
+      "hours_winter_gmt": "CLOSED FOR SEASON (26 Oct 2026 - 31 Mar 2027)",
+      "storm_nov14_15": "Closed since 25 Oct 2026; exterior storm boards up"
+    },
+    {
+      "biz_id": "BIZ-023",
+      "name": "Minch Marine Chandlery & Rigging",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 08:30-17:00; Sat 08:30-15:00; Sun Closed",
+      "storm_nov14_15": "Open 08:30-15:00 GMT Sat 14 Nov; sold storm warps & shackles"
+    },
+    {
+      "biz_id": "BIZ-028",
+      "name": "Caledonia Scientific Gases Ltd. (Northern Depot)",
+      "town": "Inverness",
+      "hours_winter_gmt": "Mon-Fri 08:00-16:30; Sat-Sun Closed",
+      "storm_nov14_15": "Coigach/Polbain cylinder flatbed runs strictly 1st & 3rd Wednesdays (matches EX-45 Q2 manifest!)"
+    },
+    {
+      "biz_id": "BIZ-033",
+      "name": "Summer Isles Sea Tours \u2014 MV Shearwater",
+      "town": "Ullapool",
+      "hours_winter_gmt": "CLOSED FOR WINTER REFIT (19 Oct 2026 - 31 Mar 2027)",
+      "storm_nov14_15": "MV Shearwater on slipway cradle since 20 Oct 2026"
+    },
+    {
+      "biz_id": "BIZ-038",
+      "name": "Lochbroom Bookshop & Chart Agency",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Tue-Sat 10:00-16:30; Sun-Mon Closed",
+      "storm_nov14_15": "Open 10:00-16:30 Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-043",
+      "name": "Hebridean Sea-Salt & Kelp Co.",
+      "town": "Polbain",
+      "hours_winter_gmt": "Mon-Fri 09:30-16:00; Sat-Sun Closed",
+      "storm_nov14_15": "Unstaffed all weekend 14-15 Nov per normal Mon-Fri winter schedule (adjacent to Vespera Pier Store)"
+    },
+    {
+      "biz_id": "BIZ-048",
+      "name": "Highland Wash & Marine Laundry",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Sat 08:30-17:00; Sun Closed",
+      "storm_nov14_15": "Delivered freshly pressed Conclave table linen & 14 guest towel sets to Eilean Vespera Fri 13 Nov"
+    },
+    {
+      "biz_id": "BIZ-053",
+      "name": "Broom Hair & Harbour Barber",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Tue-Sat 09:30-16:30; Sun-Mon Closed",
+      "storm_nov14_15": "Open 09:30-16:30 Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-058",
+      "name": "Summer Isles Kayak & Pony Trekking",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "CLOSED FOR WINTER (01 Oct 2026 - 30 Apr 2027)",
+      "storm_nov14_15": "Ponies in winter pasture; boats racked indoors"
+    },
+    {
+      "biz_id": "BIZ-063",
+      "name": "An Cala Picture Framing & Antiquarian Prints",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Wed-Sat 10:30-16:00; Sun-Tue Closed",
+      "storm_nov14_15": "Open 10:30-16:00 Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-068",
+      "name": "Pritchard MacNab Chartered Accountants",
+      "town": "Inverness",
+      "hours_winter_gmt": "Mon-Fri 09:00-17:00 (Fri closes 16:00); Sat-Sun Closed",
+      "storm_nov14_15": "Closed Sat 14 & Sun 15 Nov"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "dataset_id": "DS-050",
+  "exported_utc": "2026-11-16T12:00:00Z",
+  "records": [
+    {
+      "biz_id": "BIZ-001",
+      "name": "The Coigach Smokehouse & Pier Larder",
+      "town": "Polbain",
+      "hours_winter_gmt": "Tue-Sat 09:30-16:30; Sun-Mon Closed",
+      "storm_nov14_15": "Closed 14:00 GMT Sat 14 Nov due to pier spray over Old Quay Road"
+    },
+    {
+      "biz_id": "BIZ-006",
+      "name": "Seaforth Chippy & Seafood Bar",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Sat 12:00-20:30 (Closed 14:30-16:30 lunch break); Sun Closed",
+      "storm_nov14_15": "Open 12:00-14:30 & 16:30-20:30 GMT Sat 14 Nov; Closed Sun 15 Nov"
+    },
+    {
+      "biz_id": "BIZ-011",
+      "name": "Polglass General Stores & Post Office",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Mon-Sat 08:30-17:00 (Post Counter closes 12:30 Sat; Wed closes 13:00); Sun Closed",
+      "storm_nov14_15": "Shop closed 16:00 GMT Sat 14 Nov ahead of peak gale; sold out of 5L bottled water & storm candles by 15:30"
+    },
+    {
+      "biz_id": "BIZ-016",
+      "name": "West Coast Delicatessen & Wine Vault",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Tue-Sat 10:00-17:00; Sun-Mon Closed",
+      "storm_nov14_15": "Supplied Conclave Bordeaux & port case on Thu 12 Nov"
+    },
+    {
+      "biz_id": "BIZ-021",
+      "name": "Broomview Guest House",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Thu-Mon Check-in 16:00-19:30; Closed Dec-Feb",
+      "storm_nov14_15": "Two commercial travellers stayed night of Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-026",
+      "name": "Coigach Heating, Plumbing & Oil Services",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Mon-Fri 08:30-16:30; Weekend Emergency Only",
+      "storm_nov14_15": "Notice posted 13 Nov suspending island/off-mainland callouts during high-tide gale window"
+    },
+    {
+      "biz_id": "BIZ-031",
+      "name": "Polbain Boatyard & Outboard Slip",
+      "town": "Polbain",
+      "hours_winter_gmt": "Mon-Fri 09:00-16:00; Sat 09:00-12:30; Sun Closed",
+      "storm_nov14_15": "Yard chained at 12:30 GMT Sat 14 Nov after double-chocking winter RIBs"
+    },
+    {
+      "biz_id": "BIZ-036",
+      "name": "Broom Cycles & Kayak Outfitter",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Thu-Sat 09:30-16:00 (Workshop & Bike Sales Only; Sea-Kayak Hire Suspended Oct-Mar); Sun-Wed Closed",
+      "storm_nov14_15": "Workshop open 09:30-16:00 Sat 14 Nov; strict red kayak ban notice posted"
+    },
+    {
+      "biz_id": "BIZ-041",
+      "name": "Rhue Art & Lighthouse Studio Gallery",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Fri-Sun 11:00-16:00; Mon-Thu Closed",
+      "storm_nov14_15": "Closed Sat 14 & Sun 15 Nov due to exposed Rhue headland spray"
+    },
+    {
+      "biz_id": "BIZ-046",
+      "name": "Lochbroom Veterinary Clinic",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 08:30-17:30; Sat 09:00-12:00; 24/7 Croft Lambing/Calving Pager",
+      "storm_nov14_15": "Surgery open 09:00-12:00 Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-051",
+      "name": "Coigach Smokeless Coal, Peat & Logs",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Mon-Sat 08:00-16:00; Sun Closed",
+      "storm_nov14_15": "Finished Saturday Coigach coal rounds at 13:00 GMT Sat 14 Nov before gusts topped 45 kt"
+    },
+    {
+      "biz_id": "BIZ-056",
+      "name": "Cromarty & Minch Precision Glassblowing",
+      "town": "Inverness",
+      "hours_winter_gmt": "Mon-Fri 08:30-16:00; Sat-Sun Closed",
+      "storm_nov14_15": "Fabricated Vespera's Suprasil cold-trap capillaries (\u00a39,200) & Duran 3.3 break-seal ampoule blanks"
+    },
+    {
+      "biz_id": "BIZ-061",
+      "name": "Ullapool Sea Angling & Skate Charter (MV Northern Star)",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Sat-Sun Sheltered Loch Trips Only 09:00-14:00 (weather <= F5)",
+      "storm_nov14_15": "Weekend Loch Broom skate charters cancelled 14-15 Nov (Force 8-9 gale)"
+    },
+    {
+      "biz_id": "BIZ-066",
+      "name": "Coigach Croft & Fencing Supplies",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Mon-Fri 08:30-16:00; Sat 08:30-12:00; Sun Closed",
+      "storm_nov14_15": "Closed 12:00 GMT Sat 14 Nov as scheduled"
+    }
+  ]
+}

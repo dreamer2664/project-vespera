@@ -1,0 +1,104 @@
+{
+  "dataset_id": "DS-061",
+  "exported_utc": "2026-11-16T12:00:00Z",
+  "records": [
+    {
+      "biz_id": "BIZ-002",
+      "name": "An Clachan Tearoom & Bakery",
+      "town": "Polbain",
+      "hours_winter_gmt": "Wed-Sun 09:00-15:30; Mon-Tue Closed",
+      "storm_nov14_15": "Shut 13:30 GMT Sat 14 Nov & Closed Sun 15 Nov (storm shutters fitted)"
+    },
+    {
+      "biz_id": "BIZ-007",
+      "name": "Cultag Espresso & Bakehouse",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Sat 08:15-16:00; Sun 09:30-15:00",
+      "storm_nov14_15": "Open 08:15-16:00 GMT Sat 14 Nov & 09:30-15:00 GMT Sun 15 Nov"
+    },
+    {
+      "biz_id": "BIZ-012",
+      "name": "MacIver's Harbour Grocers & Provisions",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Sat 07:30-20:00; Sun 09:30-17:00",
+      "storm_nov14_15": "Open 07:30-20:00 GMT Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-017",
+      "name": "Broom Bakehouse & Flour Mill",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Sat 06:30-13:30; Sun Closed",
+      "storm_nov14_15": "Coigach morning bread van turned back from Achnahaird loop at 08:40 Sat 14 Nov due to crosswinds"
+    },
+    {
+      "biz_id": "BIZ-022",
+      "name": "Coigach Walkers' Bunkhouse",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Fri-Sun Only 15:00-20:00 (Nov-Mar); Mon-Thu Closed",
+      "storm_nov14_15": "Two Munro baggers sheltered Sat 14 Nov; experienced 11-second 20:14 GMT Coigach power blink"
+    },
+    {
+      "biz_id": "BIZ-027",
+      "name": "Highland Refrigeration & Cryo-Plant Ltd.",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 08:00-16:30; 24/7 Cold-Store SLA",
+      "storm_nov14_15": "R. Tulloch previously serviced Vespera B1-02 Cold Vault on Sat 12 Sep 2026 (matches EX-45!)"
+    },
+    {
+      "biz_id": "BIZ-032",
+      "name": "Macaskill Haulage & Freight Co.",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 07:00-17:30; Sat 08:00-12:00; Sun Closed",
+      "storm_nov14_15": "Last Coigach drop completed Fri 13 Nov 14:20 at Polbain Pier Store"
+    },
+    {
+      "biz_id": "BIZ-037",
+      "name": "Tanera Freight & Workboat Services (MV Creag Dhubh)",
+      "town": "Polbain",
+      "hours_winter_gmt": "Mon-Fri 08:00-16:00 weather permitting; Sat-Sun Emergency Only",
+      "storm_nov14_15": "MV Creag Dhubh storm-moored inside Ullapool inner basin from 14:00 Fri 13 Nov until Mon 16 Nov 09:00 (zero weekend movements!)"
+    },
+    {
+      "biz_id": "BIZ-042",
+      "name": "Achnahaird Pottery & Sea-Glaze Kiln",
+      "town": "Achnahaird",
+      "hours_winter_gmt": "Fri-Sat 11:00-15:00; Sun-Thu Firing Only",
+      "storm_nov14_15": "Closed Sat 14 Nov; electric kiln firing postponed to protect elements from rural voltage dips"
+    },
+    {
+      "biz_id": "BIZ-047",
+      "name": "Mackenzie & Munro Solicitors and Estate Agents",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 09:00-16:45 (Closed 13:00-14:00); Sat-Sun Closed",
+      "storm_nov14_15": "Closed weekends; window displays 12 Wester Ross crofts & cottages"
+    },
+    {
+      "biz_id": "BIZ-052",
+      "name": "West Ross IT, Telecoms & CCTV Services",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 09:00-17:00; Sat 10:00-13:00 Drop-in",
+      "storm_nov14_15": "Supplied Vespera's Hikvision DS-7608NI-I2 NVR box in June 2026 (hardware-only supply; configured air-gapped on island by Vespera)"
+    },
+    {
+      "biz_id": "BIZ-057",
+      "name": "Stac Pollaidh Croft Produce & Eggs",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Daily 08:00-17:00 Honesty Shed",
+      "storm_nov14_15": "Honesty shed bolted at 15:00 GMT Sat 14 Nov so gale wouldn't rip the corrugated roof off"
+    },
+    {
+      "biz_id": "BIZ-062",
+      "name": "Broom Florist, Thistle & Wreath",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Tue-Sat 09:30-16:00; Sun-Mon Closed",
+      "storm_nov14_15": "Supplied table thistle/heather centrepiece to Eilean Vespera Fri 13 Nov"
+    },
+    {
+      "biz_id": "BIZ-067",
+      "name": "Subsea Carbon Verification Ltd. (SCV Ltd.)",
+      "town": "Aberdeen",
+      "hours_winter_gmt": "Mon-Fri 08:30-17:30; Aberdeen Calibration Bench Unstaffed Weekends",
+      "storm_nov14_15": "Corporate site touting 'Project Pelagic' seabed methane sensor (<=0.08 ppb spec) & 2023 Vespera spin-out!"
+    }
+  ]
+}

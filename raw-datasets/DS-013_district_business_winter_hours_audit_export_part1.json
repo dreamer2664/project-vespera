@@ -1,0 +1,97 @@
+{
+  "dataset_id": "DS-013",
+  "exported_utc": "2026-11-16T12:00:00Z",
+  "records": [
+    {
+      "biz_id": "BIZ-004",
+      "name": "Am Fuaran Bar & Creel Kitchen",
+      "town": "Altandhu",
+      "hours_winter_gmt": "Thu-Sun 16:00-22:30 (Sun from 13:00); Mon-Wed Closed",
+      "storm_nov14_15": "Closed 20:30 GMT Sat 14 Nov after 20:14 Coigach 11kV power dip tripped cellar chiller"
+    },
+    {
+      "biz_id": "BIZ-009",
+      "name": "Ceilidh Place Bookshop Caf\u00e9 & Rooms",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Sat 09:30-21:00; Sun 10:00-17:00",
+      "storm_nov14_15": "Hosted rescheduled acoustic duo session indoors at 19:30 GMT Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-014",
+      "name": "Quayside Fishmongers & Ice Co.",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 07:30-15:00; Sat 08:00-13:00; Sun Closed",
+      "storm_nov14_15": "Closed 13:00 GMT Sat 14 Nov; flake ice silo locked for storm"
+    },
+    {
+      "biz_id": "BIZ-019",
+      "name": "Badenscallie Croft Pods & Glamping",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Daily Reception 10:00-16:00 (Keybox after 16:00)",
+      "storm_nov14_15": "Cancelled weekend pod bookings 13-15 Nov after Met Office Amber/Red coastal gust alert (>55 kt)"
+    },
+    {
+      "biz_id": "BIZ-024",
+      "name": "Ullapool Builders Merchant & Lime Store",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 07:30-16:30; Sat 08:00-12:00; Sun Closed",
+      "storm_nov14_15": "Supplied Callum Reid (Vespera) 2x 20kg tubs Mature Non-Hydraulic Lime Putty on Tue 10 Nov (Inv UBM-8821)"
+    },
+    {
+      "biz_id": "BIZ-029",
+      "name": "Ross-Shire Fuel Oils & Marine Bunkers",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 08:00-16:30; Sat Pier Bunkers 08:00-11:00",
+      "storm_nov14_15": "Cancelled Sat 14 Nov 10:00 pier bunkering due to 2.5m Lochbroom swell"
+    },
+    {
+      "biz_id": "BIZ-034",
+      "name": "Lochbroom Taxis & Private Hire",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Thu 07:30-22:30; Fri-Sat 07:30-23:30; Sun 09:00-21:00",
+      "storm_nov14_15": "Suspended single-track C1047 Coigach runs after 17:00 GMT Sat 14 Nov (drove Prof. Korsakov & J. Vance from Ullapool to Eilean Vespera arriving 16:35 GMT!)"
+    },
+    {
+      "biz_id": "BIZ-039",
+      "name": "North West Mountain & Munro Gear",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Sat 09:30-17:00; Sun 11:00-15:00",
+      "storm_nov14_15": "Open 09:30-17:00 Sat 14 Nov; brisk trade in waterproof overtrousers & headtorches"
+    },
+    {
+      "biz_id": "BIZ-044",
+      "name": "Broom Hardware, Keys & Ironmongery",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Sat 08:30-16:30 (Closed Wed from 13:00); Sun Closed",
+      "storm_nov14_15": "Open 08:30-16:30 Sat 14 Nov; heavy sales of storm latches, torches & de-icing rock salt"
+    },
+    {
+      "biz_id": "BIZ-049",
+      "name": "Ullapool Print, Sign & Copy Shop",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 09:00-16:30; Sat-Sun Closed",
+      "storm_nov14_15": "Printed Vespera Institute 120gsm cream Conclave agenda folders on Wed 11 Nov"
+    },
+    {
+      "biz_id": "BIZ-054",
+      "name": "Ullapool Physiotherapy & Sports Clinic",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Thu 08:30-17:30; Fri 08:30-14:00; Sat-Sun Closed",
+      "storm_nov14_15": "Closed Sat 14 & Sun 15 Nov"
+    },
+    {
+      "biz_id": "BIZ-059",
+      "name": "Lochbroom Smokehouse Hampers Direct",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 08:30-17:00; Sat Christmas Dispatch 09:00-13:00 (starts Nov)",
+      "storm_nov14_15": "Open 09:00-13:00 Sat 14 Nov packing early St Andrew's & Christmas hampers"
+    },
+    {
+      "biz_id": "BIZ-064",
+      "name": "Highland Peat & Botanical Skincare",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Fri-Sat 11:00-15:00 & Online Mail-Order; Sun-Thu Closed",
+      "storm_nov14_15": "Shut workshop at 13:00 GMT Sat 14 Nov; note: supplies guest-room Bog-Myrtle soap bars to Vespera Institute!"
+    }
+  ]
+}

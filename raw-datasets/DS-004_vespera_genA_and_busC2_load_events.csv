@@ -1,0 +1,7 @@
+timestamp_utc,power_source,bus_a_residential_v,bus_c2_cleanroom_kw,bus_c2_limit_kw,bus_c2_breaker_state,event_note
+2026-11-14T20:14:03Z,MAINS_LOSS,0.0,0.0,4.5,TRANSFER,11kV subsea feeder drop
+2026-11-14T20:14:06Z,GEN_A_150KVA,230.2,2.91,4.5,CLOSED,Cummins Gen-A online; immersion lockout active
+2026-11-14T21:12:41Z,GEN_A_150KVA,198.4,2.91,4.5,CLOSED,0.4s AVR governor dip across BUS-A & BUS-B
+2026-11-14T21:45:35Z,GEN_A_150KVA,230.1,5.01,4.5,OVERLOAD_DETECT,2.10 kW inductive step load added onto 2.91 kW baseline
+2026-11-14T21:45:36Z,GEN_A_150KVA,230.1,0.0,4.5,TRIPPED_DARK,BUS-C2 solid-state trip (Lab B1-04 dark; 1st Floor BUS-A unaffected)
+2026-11-14T21:45:45Z,GEN_A_150KVA,230.1,2.91,4.5,AUTO_RECLOSED,BUS-C2 restored after 9.11s dead-time

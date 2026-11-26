@@ -1,0 +1,97 @@
+{
+  "dataset_id": "DS-014",
+  "exported_utc": "2026-11-16T12:00:00Z",
+  "records": [
+    {
+      "biz_id": "BIZ-005",
+      "name": "The Ferry Boat Inn",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Daily 11:30-23:00 (Food 12:00-14:30 & 17:30-20:45)",
+      "storm_nov14_15": "Open normal winter hours 11:30-23:00 GMT on Ullapool town ring main"
+    },
+    {
+      "biz_id": "BIZ-010",
+      "name": "Lochbroom Spice & Tandoori",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Wed-Mon 17:00-22:00; Tue Closed",
+      "storm_nov14_15": "Stopped rural A835/Braemore deliveries at 18:30 GMT Sat 14 Nov; counter open to 22:00"
+    },
+    {
+      "biz_id": "BIZ-015",
+      "name": "An Teallach Butcher & Game Dealer",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Tue-Sat 08:00-16:30; Sun-Mon Closed",
+      "storm_nov14_15": "Supplied Eilean Vespera Conclave venison saddle on Fri 13 Nov (Docket ATB-4410)"
+    },
+    {
+      "biz_id": "BIZ-020",
+      "name": "Caledonian Hotel Ullapool",
+      "town": "Ullapool",
+      "hours_winter_gmt": "24-hour Front Desk; Dining 07:30-20:30",
+      "storm_nov14_15": "Open 24h; accommodated cancelled 17:30 CalMac sailing motorists"
+    },
+    {
+      "biz_id": "BIZ-025",
+      "name": "Lochbroom Motors & Recovery 24/7",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Forecourt Mon-Sat 07:00-20:00, Sun 09:00-18:00; Workshop Mon-Fri 08:30-17:00, Sat 08:30-12:30",
+      "storm_nov14_15": "Forecourt open 07:00-20:00 Sat 14 Nov (several Conclave attendees fuelled cars 13:45-15:40 GMT on way to Polbain!)"
+    },
+    {
+      "biz_id": "BIZ-030",
+      "name": "Beinn Dearg Electrical & Renewables",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 08:30-16:30; Sat-Sun Closed",
+      "storm_nov14_15": "Installed Vespera Gatehouse 24V LiFePO4 wind/battery inverter in 2024"
+    },
+    {
+      "biz_id": "BIZ-035",
+      "name": "Westerbus Community Transport & Route 61B",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Sat 2 Return Runs (09:10 & 15:15 ex Ullapool; 10:15 & 16:20 ex Polbain); Sun No Service",
+      "storm_nov14_15": "Afternoon 15:15 ex-Ullapool / 16:20 ex-Polbain run on Sat 14 Nov terminated at Achiltibuie Hall (skipping Polbain quay loop due to surf)"
+    },
+    {
+      "biz_id": "BIZ-040",
+      "name": "Coigach Woollens & Handloom Studio",
+      "town": "Achiltibuie",
+      "hours_winter_gmt": "Thu-Sat 10:30-15:30; Mon-Wed By Appointment; Sun Closed",
+      "storm_nov14_15": "Closed studio at 14:00 GMT Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-045",
+      "name": "Silver Darlings Gift & Tartan Emporium",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Thu-Sat 10:00-16:00; Sun-Wed Closed (Nov-Mar)",
+      "storm_nov14_15": "Open 10:00-16:00 Sat 14 Nov"
+    },
+    {
+      "biz_id": "BIZ-050",
+      "name": "Northern Horizons Optical & Hearing",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Tue-Fri 09:30-16:30; Alt. Saturdays (Open 07 Nov, Closed 14 Nov); Sun-Mon Closed",
+      "storm_nov14_15": "Closed Sat 14 Nov (alternate off-Saturday per winter clinic rota)"
+    },
+    {
+      "biz_id": "BIZ-055",
+      "name": "Hebridean Subsea Surveys Ltd.",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 08:30-17:00; Vessel Ops 24/7 offshore",
+      "storm_nov14_15": "Survey vessel MV Minch Explorer sheltered in Lochinver 13-16 Nov; company cited in EX-14 re wave/tide CSV consultancy"
+    },
+    {
+      "biz_id": "BIZ-060",
+      "name": "Achnahaird Caravan & Camper Aire",
+      "town": "Achnahaird",
+      "hours_winter_gmt": "Hardstanding Aire Only (01 Nov - 31 Mar, max 5 vans; Toilet Block Winterised)",
+      "storm_nov14_15": "Barrier locked 12:00 GMT Sat 14 Nov; 2 German campervans relocated inland to Ullapool"
+    },
+    {
+      "biz_id": "BIZ-065",
+      "name": "Lochbroom Self-Drive Van & 4x4 Hire",
+      "town": "Ullapool",
+      "hours_winter_gmt": "Mon-Fri 08:30-17:00; Sat 08:30-12:30; Sun Closed",
+      "storm_nov14_15": "Handovers closed 12:30 GMT Sat 14 Nov"
+    }
+  ]
+}
